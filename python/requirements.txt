@@ -1,0 +1,6 @@
+libbtc1 @ git+https://github.com/dcdpr/did-btc1-py
+buidl @ git+https://github.com/buidl-bitcoin/buidl-python@c0b7d57
+python-dotenv
+bitcoinrpc
+jupyterlab
+nbconvert
